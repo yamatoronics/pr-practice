@@ -1,1 +1,1 @@
-# pr-practice
+# This is the practice of pull request.
